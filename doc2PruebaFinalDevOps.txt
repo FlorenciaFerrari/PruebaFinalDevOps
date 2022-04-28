@@ -1,0 +1,5 @@
+Florencia Ferrari Ortiz
+C.I: 4.435.437-6
+
+Pasos a utilizar en el caso que desarrollo despliegue nueva funcionalidad a prod:
+desarrollo debe subir su rama con la nueva funcionalidad y mergearla, luego se deberá realizar pull para traernos esos cambios y correr los tests.
