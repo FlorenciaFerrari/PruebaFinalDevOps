@@ -1,0 +1,4 @@
+Florencia Ferrari Ortiz
+C.I: 4.435.437-6
+
+Esquema de ramas del proyecto a utilizar: Master, Testing, Prod
